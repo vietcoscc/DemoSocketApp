@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoSocketApp</string>
+    <string name="edt_port">Port</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_send">Send</string>
+    <string name="edt_content">Contetn</string>
+</resources>
